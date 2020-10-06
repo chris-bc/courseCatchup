@@ -1,0 +1,39 @@
+Analysis
+4 people available Saturday only. Of those 4 the best use of Saturday would be
+firstname   date      
+----------  ----------
+Shawn       12/8      
+Sam         26/8      
+Sam         9/9       
+Stephen     9/9       
+Sam         16/9      
+Angelo      23/9      
+Stephen     23/9   
+
+12 people will be at Saturday - Need to choose what's valuable for the most people
+
+Most useful weekend sessions:
+date        foo       
+----------  ----------
+2/9         4.0       
+16/9        3.5       
+26/8        3.5       
+23/9        2.0       
+9/9         2.0       
+12/8        1.0       
+19/8        1.0    
+Signs off 11 missed sessions 
+==> Unless we have multiple training tracks?
+Sat 17/10 - Assuming ~1 hour
+    - Begin content from 2/9
+
+Sun 17/10 - Assume 0830-1030, 10.45-13.15, 14.00-16.15
+    - 8.30 - 9.30 - Finish content from 2/9
+    - 9.30 - 10.30 - First half of 16/9
+    - 10.45 - 13.15 - Rest of 16/9, most of 26/8
+    - 14.00 - 14.15 - Tiny bit of 26/8
+    - 14.15 - 16.15 - 23/9
+    - Bonus topic - 9/9 (prepare)
+    - Extra bonuses 12/8 and 19/8
+
+Three Tuesdays (23/9, 9/9, 26/8)
