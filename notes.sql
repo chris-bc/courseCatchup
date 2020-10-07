@@ -97,7 +97,7 @@ select d.name, date, firstname from person p,missed m,available a,day d where a.
   select date,count(*) tot from missed where person_id in(2,13,15,17) group by date order by tot desc;
 
 == Most valuable sessions to run over weekend based on availability
-seelect date,avg(pax) foo from (
+select date,avg(pax) foo from (
   select d.name,m.date,count(distinct m.person_id) pax from person p,missed m,available a,day d where d.name in('Saturday','Sunday') and p.id=m.person_id and p.id=a.person_id and a.day_id=d.id group by d.name,m.date order by d.id, pax desc)
 group by date order by foo desc;
   
